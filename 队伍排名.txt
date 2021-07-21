@@ -1,67 +1,199 @@
-队伍号	|	名字	状态	得分	胜利	失败	排行	队员
-37	|	二连三排三班	4	320	16	1	1	{[145]高松:二连三排三班}{[221]朱振杰:2连3排3班}{[306]郭咏锶:233}
-44	|	113	4	300	15	3	2	{[299]obwte:113}{[252]董思瑶:一排三班}{[302]郑邦进:1排3班}
-43	|	一连三排二班	4	280	14	3	3	{[245]李昀瑾:一连二排三班}{[294]李甜甜:一连三排二班}{[291]卢思竹:1练3排2班}
-24	|	123	4	280	14	3	4	{[131]李倩:123}{[140]黄子璇:一连二排三班}{[178]李信:1连2排3班}
-42	|	一连三排一班	4	260	13	2	5	{[272]谢彩霞:一连三排一班}{[269]林结桃:一连三排一班}{[304]刘莉芳:一连三排一班}
-52	|	580	4	260	13	4	6	{[267]尹达智:二连二排二班}{[309]吴洪:2连2排2班}{[216]张鑫:一连一排一班}
-17	|	最强亡者	4	260	13	3	7	{[134]小志:最强亡者}{[143]许梦圆:一连二排三班}{[197]江巧巧:一连二排三班}
-39	|	二连二排二班	4	240	12	5	8	{[261]杨诗怡:二连二排二班}{[195]张倩:二连二排二班}{[192]徐聪:2连2排2班}
-2	|	三带一队	4	240	12	5	9	{[146]胡加辉:一连二排一班}{[223]葛冬岑:1连2排1班}{[266]张海波:一连二排一班}
-13	|	111	4	240	12	4	10	{[133]曹文怡:111}{[152]曹硕:1连1排1班}{[275]刘建秀:111}
-6	|	233	4	240	12	5	11	{[142]张桢:233}{[141]陈超:233}{[138]曹孟岑:233}
-33	|	一连3排1班	4	240	12	4	12	{[127]黄涛:一连3排1班}{[135]李玥明:三排一班}{[148]李国泓:一连三排一班}
-48	|	我们都对	4	220	11	6	13	{[295]宋双民:二连一排一班}{[249]周靖尧:二连一排一班}{[308]黄涛:二连一排一班}
-8	|	222打工人	4	220	11	5	14	{[168]向睿智:二连二排二班}{[174]孔超娣:二连二排二班}{[242]杨海玲:二连二排二班}
-23	|	Winner	4	220	11	6	15	{[225]刘鉴仪:六排二班}{[237]董怡苇:六排二班}{[257]张悦:六排二班}
-50	|	一连三排三班	4	220	11	6	16	{[204]梁国强:一连三排三班}{[280]冼世忠:1连3排3班}{[181]曾一哲:一连三排三班}
-14	|	拿来吧你	4	220	11	9	17	{[199]关山:2连2排3班}{[132]周欣:2连2排3班}{[205]阎昱韬:2连2排3班}
-55	|	2连1排1班	4	200	10	3	18	{[300]邵任之:2连1排1班}{[276]吴佳雨:4排1班}{[307]杨运:2连1排1班}
-40	|	赵光义	4	200	10	6	19	{[283]六排二班:赵光义}{[240]陈博阳:一连一排一班}{[203]唐辉:一连二排三班}
-59	|	212	4	200	10	8	20	{[165]郭世鼎:212}{[171]王畅:二连一排二班}{[153]聂聂聂。:四排二班}
-3	|	黄晶伶队	4	200	10	5	21	{[264]蒋依伶:一连二排二班}{[263]王晶:一连二排二班}{[260]黄莉:一连二排二班}
-7	|	AAC	4	180	9	5	22	{[189]安晨:1连1排1班}{[180]敖翔:一连一排一班}{[191]陈俐帆:一连一排一班}
-21	|	六排二班	4	180	9	7	23	{[188]陈雪梅:六排二班}{[215]周慧:六排二班}{[182]谢倩薇:六排二班}
-28	|	全都对！！	4	180	9	8	24	{[213]贾鹏:1连2排3班}{[292]刘宗宗:3排3班}{[170]王佳楠:五排1班}
-34	|	对对队	4	160	8	7	25	{[163]黄晨颖:一连二排一班}{[196]聂琦:一连二排一班}{[164]彭婷婷:1连2排1班}
-58	|	贝壳小王子	4	160	8	6	26	{[290]钟春榕:二连六排一班}{[236]隋欣:二连一排一班}{[296]王子畅:五排一班}
-0	|	111	4	160	8	8	27	{[128]罗曼:1连3排3班}{[159]杨美军:1连3排3班}{[218]梁淑君:一连三排三班}
-15	|	干饭三人组	4	160	8	9	28	{[238]罗梅:一连三排三班}{[149]陈豪:一连一排二班}{[158]龙施斌:3排2班}
-30	|	2连3排3班01	4	140	7	7	29	{[220]杨静波:2连3排3班}{[177]回佟昱萱:二连三排三班}{[281]杨天琦:233}
-36	|	MountainKING	4	140	7	7	30	{[156]张希雯:二连二排三班}{[206]钟燕霄:2连2排3班}{[233]刘英:1连3排2班}
-51	|	二连三排三班	4	140	7	7	31	{[235]cl:二连三排三班}{[155]易涛:二连三排三班}{[172]闫宗强:2连2排3班}
-35	|	一连一排一班	4	140	7	9	32	{[167]程鹏:一连一排一班}{[136]曾晓月:一连一排一班}{[190]程立:一连一排一班}
-4	|	华大吴彦祖	4	120	6	9	33	{[166]刘华辉:一连二排二班}{[214]李林源:一连二排二班}{[161]杨钦平:一连二排二班}
-20	|	四排二班	4	120	6	7	34	{[228]孙央雯:四排二班}{[184]罗凤琴:四排二班}{[169]孙雅娜:四排二班}
-19	|	老司机带带我	4	120	6	4	35	{[175]芮金秋:二连三排一班}{[244]龚建福:六班}{[160]吕思絮:1连3排3班}
-5	|	好运来	4	100	5	9	36	{[183]邹婷:二连三排一班}{[210]冀弘艺:2连2排2班}{[268]赵佳丽:二连三排三班}
-54	|	一连二排二班	4	100	5	8	37	{[200]李嘉:一连二排二班}{[253]黄柔漫:一连二排二班}{[289]黄雪军:一连二排二班}
-11	|	五排一班	4	100	5	10	38	{[219]魏晨阳:五排一班}{[202]王新羽:五排一班}{[278]鲁继沛:221}
-64	|	一连一排二班	4	100	5	10	39	{[137]陈文芳:一连一排二班}{[321]王瑜洁:一连一排二班}{[284]骆雨晴:一连三排三班}
-12	|	2连2排3班	4	100	5	10	40	{[209]黄芝淇:2连2排3班}{[147]张小春:二连二排三班}{[246]高晓然:1连1排3班}
-16	|	天霸	4	100	5	9	41	{[251]丁海燕:1连1排3班}{[273]丁旭:一连一排3班}{[297]董新宇:一连一排三班}
-18	|	132	4	100	5	10	42	{[212]杨越:132}{[314]韦青春:1连3排2班}{[318]李天骄:一连三排二班}
-9	|	一连一排三班	4	100	5	10	43	{[229]方成:一连一排三班}{[232]杜金科:一连一排3班}{[305]许颖颖:一连一排3班}
-60	|	青春永驻队	4	100	5	10	44	{[274]吴姝鸽:青春永驻队}{[258]夏再敏:2连5排1班}{[277]查思思:二连二排一班}
-10	|	二连一排三班	4	100	5	9	45	{[241]王为:二连一排三班}{[265]胡守杰:二连一排三班}{[282]涂清安:二连一排三班}
-31	|	四排二班	4	80	4	8	46	{[154]任艳珍:四排二班}{[208]桂兴业:四排二班}{[310]万梦婕:二连一排三班}
-62	|	二连五排二班	4	80	4	7	47	{[316]谭灿:五排二班}{[320]向芙江Alan:二连二排二班}{[285]李双宝:三排二班}
-47	|	我也	4	80	4	11	48	{[270]罗雨轩:二连三排一班}{[301]赵世宠:二连三排一班}{[313]陈焯阳:二连三排一班}
-53	|	猛犸hi	4	80	4	9	49	{[198]彭程:六连二班}{[259]黄伊明:六排二班}{[176]马舒瑞:六排二班}
-63	|	答的都队	4	80	4	9	50	{[207]杜莹:一连二排一班}{[194]郇兆蔚:一连二排一班}{[162]孙丹丹:一连二排一班}
-46	|	1连2排1班	4	80	4	10	51	{[222]孟逸欣:1连2排1班}{[255]邱思枚:1连2排1班}{[150]李娇:1连2排1班}
-32	|		4	60	3	12	52	{[248]苏东乐:四排二班}{[312]唐明艳:4排2班}{[186]华成焕:四排二班}
-22	|	三排二班	4	60	3	9	53	{[262]张湘泉:三排二班}{[243]张艺明:三排二班}{[303]陈立川:六排二班}
-56	|	壹零零队	4	60	3	12	54	{[247]刘海怡:一连三排一班}{[211]林颖:一连三排一班}{[234]李琳:一连三排一班}
-27	|	二连一排一班	4	60	3	9	55	{[224]李艺洋:二连一排一班}{[230]唐天娇:2连一排一班}{[239]李燕鹏:二连一排一班}
-41	|	一连一排二班	4	40	2	10	56	{[256]陈红红:一连一排二班}{[130]陈心怡:一连一排2班}{[201]郑宏一:一连一排二班}
-57	|	玉维菲	4	40	2	7	57	{[217]王世玉:二连一排三班}{[254]罗菲:二连一排三班}{[250]王诗维:213}
-25	|	一连一排二班	4	20	1	9	58	{[151]周棋:一连一排二班}{[288]邓敏芳:一连一排二班}{[173]张峰:一连一排二班}
-38	|	哈哈	4	20	1	8	59	{[231]闫丽娟:一连二排三班}{[293]沈鑫蕾:一连二排三班}{[227]邓智予:2连2排3班}
-1	|	一连一排二班	4	20	1	8	60	{[144]陈子钰:一连一排二班}{[193]陈芳:一连一排二班}{[187]郑文婷:二连三排一班}
-29	|	队名是	4	20	1	9	61	{[179]丁若凡:二连三排一班}{[271]陈冠锋:一连一排二班}{[185]周小莉:二连三排一班}
-26	|	一连三排一班	4	0	0	9	62	{[311]吴宇豪:二连二排一班}{[298]王路梅:二连一排三班}{[226]雷常贵:二连二排1班}
-45	|		0	0	0	0	63	{[279]施韶强:一连三排二班}
-49	|		0	0	0	0	64	{[139]周宇丁:一连}
-61	|	212	0	0	0	0	65	{[315]陈哲:212}
-65	|	1排3班	4	0	0	5	66	{[323]程彦翔:1排3班}{[319]罗翔天:1连1排1班}{[324]胡新芸:2连1排1班}
+INDEX	|	名字	部门	得分	答题统计	队伍	个人赛	团队赛	昵称	OPENID	头像
+205	|	阎昱韬	2连2排3班	587	2127|163	14	false	false	Chips Ahoy	oTCw85AAt48zAYpePwwr_io0R-0w	
+128	|	罗曼	1连3排3班	535	3023|195	0	false	false	Rumi	oTCw85Ape8YU2K4SwK17YDfKdDlI	
+257	|	张悦	六排二班	472	1448|111	23	false	false	🌸Shiney	oTCw85MM_0Cpl1w4ztuY2D4Cgpvc	
+263	|	王晶	一连二排二班	459	1221|154	3	false	false	www	oTCw85B3aOmQYag969Iu6rQylHS4	
+134	|	小志	最强亡者	355	921|101	17	false	false	小志	oTCw85Oi8weywcETN4NTuseoHdps	
+212	|	杨越	132	329	1352|134	18	false	false	.	oTCw85P-eLh6y6DkBggoE3vToUnw	
+274	|	吴姝鸽	青春永驻队	300	1417|184	60	false	false	HAHA	oTCw85Mj-ZtXiBcEJ-R2ucVsCYfQ	
+216	|	张鑫	一连一排一班	291	1632|147	52	false	false	贾竹天	oTCw85N3BQTRHO5W-U5pSxmao1Ms	
+192	|	徐聪	2连2排2班	259	2470|209	39	false	false	长眉楚巴卡🍓	oTCw85NIUSaRY1Ilj8HekvGEtYTU	
+261	|	杨诗怡	二连二排二班	210	1668|198	39	false	false	怡怡子。💛	oTCw85N_BOQzU_hSgZGjHFzGm9xg	
+195	|	张倩	二连二排二班	200	1907|197	39	false	false	ZQ	oTCw85KYralSNaBSikgHMYEQUuUo	
+155	|	易涛	二连三排三班	185	1313|133	51	false	false	热爱可抵岁月漫长	oTCw85IB036Q2yyPSk5QrPWvfYco	
+178	|	李信	1连2排3班	178	1106|105	24	false	false	木子信	oTCw85GOf8h0-rtYC8Mvw6mFi6TE	
+147	|	张小春	二连二排三班	138	1483|219	12	false	false	无事小神仙	oTCw85GMrbCHHVdV0_WwngPyH8a0	
+140	|	黄子璇	一连二排三班	134	627|111	24	false	false	ʚ林钟十一ɞ	oTCw85LbyYl8FXM0Ju54YmAvQxeg	
+154	|	任艳珍	四排二班	125	1108|164	31	false	false	抱抱	oTCw85Js49hg8yG5fGgL61hFn2NM	
+294	|	李甜甜	一连三排二班	108	497|75	43	false	false	safe and sound	oTCw85MQciirCHx3b2T6qBVE5kSs	
+237	|	董怡苇	六排二班	97	691|91	23	false	false	D	oTCw85O3-9g82qgo1Zfq2JlqoKSc	
+283	|	六排二班	赵光义	91	560|145	40	false	false	光义	oTCw85FXU5kLjjLrTCzI8y6zU8RE	
+159	|	杨美军	1连3排3班	83	651|144	0	false	false	ccÄ	oTCw85KEw8KyE9XvvWT7-XNToXsc	
+250	|	王诗维	213	81	464|95	57	false	false	named	oTCw85P0Rmv988milruA23I9Txmg	
+219	|	魏晨阳	五排一班	79	986|174	11	false	false	聆听丶晨阳	oTCw85G1oHZ0elI0TxE0neZ0QOBE	
+169	|	孙雅娜	四排二班	72	1572|271	20	false	false	星星的尾巴	oTCw85NVTuPk0YYq8SooXbHroywA	
+248	|	苏东乐	四排二班	70	649|148	32	false	false	蘇東樂	oTCw85F9qqhbEsZ-0f9JH0joU6a4	
+297	|	董新宇	一连一排三班	66	339|97	16	false	false	嗨嗨	oTCw85I8IrwhWESCy0StH-BjSzjs	
+310	|	万梦婕	二连一排三班	64	683|94	31	false	false	我站在桥上看风景	oTCw85EVRugcK-J8We-4Gne9_DHo	
+318	|	李天骄	一连三排二班	61	641|143	18	false	false	小李小李慢条斯理	oTCw85Mld-QjVqOjQVUYDqSuEYuY	
+186	|	华成焕	四排二班	50	538|159	32	false	false	三目童子	oTCw85AplmYEAfDQt4Is3PYtHmh4	
+135	|	李玥明	三排一班	48	608|144	33	false	false	李玥明🌙	oTCw85J2j7vCcswdL1mOxVZuBXP0	
+131	|	李倩	123	47	736|156	24	false	false	🧸ྀི Lik-🧸ྀི	oTCw85H5BbkqlZtCfI-7KfkO-jVE	
+141	|	陈超	233	43	685|133	6	false	false	C.C	oTCw85AiLEZ0Wr2964A_d1-r54_M	
+246	|	高晓然	1连1排3班	41	859|181	12	false	false	乖宝宝	oTCw85CV4HDoUZeSyUEtNHgEf45Q	
+281	|	杨天琦	233	37	626|131	30	false	false	freewillq	oTCw85JLwXWX1SO5Wu1sg7N0bpUk	
+256	|	陈红红	一连一排二班	34	292|88	41	false	false	陈红红	oTCw85NAKvKjQGDAjBiBVpMtgz00	
+200	|	李嘉	一连二排二班	33	1293|363	54	false	false	Echo	oTCw85PYFC9Fw4IyB60QMDsjwwvs	
+176	|	马舒瑞	六排二班	31	435|109	53	false	false	大白	oTCw85Clx2Lu0XqOEY56cDGj4tsU	
+132	|	周欣	2连2排3班	30	634|188	14	false	false	ZH	oTCw85Pa3qnqjztxCjWqwdVhfdKA	
+202	|	王新羽	五排一班	28	281|102	11	false	false	王小王	oTCw85FnPfxPbAn69JAJ2HwNuB4M	
+265	|	胡守杰	二连一排三班	28	493|115	10	false	false	冒泡泡de可乐	oTCw85H9ZWBFqufY52Ia84lBzBMI	
+258	|	夏再敏	2连5排1班	27	292|126	60	false	false	CheungHokYau	oTCw85NMSdQVpPOtoLImmBI4BZYc	
+211	|	林颖	一连三排一班	27	329|96	56	false	false	林颖	oTCw85BpnpYzih_83WJtpELAU1jg	
+323	|	程彦翔	1排3班	25	115|35	65	false	false	小程小程永不消沉	oTCw85KTy5z9SjToRzBInYts1b1A	
+236	|	隋欣	二连一排一班	25	247|64	58	false	false	我很酷不聊天.	oTCw85GG-zmof8j7y8nLONMCmNZ0	
+177	|	回佟昱萱	二连三排三班	25	207|97	30	false	false	回	oTCw85H34GJ7DYvnTb8YibTgYhYc	
+247	|	刘海怡	一连三排一班	24	239|87	56	false	false	无名小刘	oTCw85E7niK312v_Eq_wpEAyQf4g	
+127	|	黄涛	一连3排1班	23	319|79	33	false	false	笨笨猪	oTCw85Lr8Q1cwRi-aQprJymBlsEg	
+174	|	孔超娣	二连二排二班	22	456|182	8	false	false	鲸落	oTCw85DNct6uBjuqaLOLVTV5-hxw	
+171	|	王畅	二连一排二班	22	293|113	59	false	false	王畅	oTCw85G9u1r4oEUWRwzX4J_4oaVY	
+233	|	刘英	1连3排2班	21	347|140	36	false	false	刘英	oTCw85HUeqB89-pNtrBNxG5YVmHc	
+160	|	吕思絮	1连3排3班	20	121|46	19	false	false	吕思絮	oTCw85D6apxwTZeQhCT2pkVP2aWw	
+235	|	cl	二连三排三班	19	303|127	51	false	false	cl	oTCw85DU4YtZvcXz_ccDYognc1fo	
+292	|	刘宗宗	3排3班	18	255|80	28	false	false	刘宗宗	oTCw85PG7VPwo0FwTSvqkRgeiKLM	
+253	|	黄柔漫	一连二排二班	18	226|111	54	false	false	小漫子子	oTCw85HPzH0yjEUlzhDjELA2dWMQ	
+278	|	鲁继沛	221	17	307|84	11	false	false	鲁继沛	oTCw85HcqIBksmAa_RxycXLSaj54	
+251	|	丁海燕	1连1排3班	17	306|99	16	false	false	桥豆麻袋女士	oTCw85Pnp9udByCm1LwIgBfTAJtk	
+213	|	贾鹏	1连2排3班	17	390|135	28	false	false	YYN	oTCw85Ej9qeAyI1WR3ey1f-AAEuY	
+137	|	陈文芳	一连一排二班	17	382|117	64	false	false	FAFAA	oTCw85MU41OItV5dexi-IKoKK5sM	
+234	|	李琳	一连三排一班	16	212|87	56	false	false	林枫	oTCw85MIPvGWtzDdCnLYlf0W7nN4	
+197	|	江巧巧	一连二排三班	16	392|118	17	false	false	PeachOolong	oTCw85P74BJqBQq-a8W-uwlPu_gE	
+245	|	李昀瑾	一连二排三班	16	220|62	43	false	false	光瑜	oTCw85I-JQjnY_w4UFturoUHJ8QU	
+217	|	王世玉	二连一排三班	16	149|61	57	false	false	王世玉	oTCw85LAo_RJdRGF0gVimJPh8MvI	
+272	|	谢彩霞	一连三排一班	15	326|114	42	false	false	萨瓦迪卡	oTCw85JGyV2nzAIaz9ZoN5Uuoigs	
+293	|	沈鑫蕾	一连二排三班	15	118|64	38	false	false	帅胖灬艹ALTIMA	oTCw85HKknptdLCjNyIu0GxoAkO0	
+181	|	曾一哲	一连三排三班	14	184|63	50	false	false	曾一哲	oTCw85NN2mop2i9y1aJ0d6Y2YW9Q	
+220	|	杨静波	2连3排3班	14	153|53	30	false	false	杨静波	oTCw85Psne6eHLG-ikTdcFwVO6l0	
+299	|	obwte	113	14	324|93	44	false	false	obwte	oTCw85OAfITmYk5rG-l9kwaxJsO0	
+209	|	黄芝淇	2连2排3班	14	247|97	12	false	false	ROY	oTCw85MAx1r47QrmMjMgpUFHQaJw	
+130	|	陈心怡	一连一排2班	14	190|67	41	false	false	🍃	oTCw85N5Jk0q5-mgVuDb2k1QKrqo	
+150	|	李娇	1连2排1班	14	280|119	46	false	false	木宁	oTCw85L8bXzfGGrE07xyxFgP1wgM	
+162	|	孙丹丹	一连二排一班	13	153|94	63	false	false	孙丹丹	oTCw85LVH8PyeSuzHNt7CWVfliNQ	
+282	|	涂清安	二连一排三班	13	208|46	10	false	false	sakana	oTCw85MjqhJBhT2PJag0QL02cjXM	
+185	|	周小莉	二连三排一班	13	155|59	29	false	false	bunny	oTCw85D80epaCKredygGGmFqQ3P4	
+214	|	李林源	一连二排二班	13	191|80	4	false	false	哄哄	oTCw85JP240ij95xhHb9wAvs1mTg	
+270	|	罗雨轩	二连三排一班	13	302|116	47	false	false	Crystal	oTCw85Iup4a41vKI8tAIk7kFHmog	
+148	|	李国泓	一连三排一班	12	232|75	33	false	false	国泓	oTCw85G8-qliNvRV0fOlwRwuG508	
+277	|	查思思	二连二排一班	12	226|101	60	false	false	SiSi	oTCw85KGzfbVav4c4rgu7rL-EELw	
+309	|	吴洪	2连2排2班	12	209|105	52	false	false	吴洪	oTCw85PCdKfKSxEc91J3bne-cYeE	
+208	|	桂兴业	四排二班	12	123|51	31	false	false	Gui XY	oTCw85PvPNLOpWuwfjOCtgraQwag	
+231	|	闫丽娟	一连二排三班	12	127|102	38	false	false	牛奶咖啡	oTCw85CrI3eZnrQ8HZ-LMrz0PIUA	
+255	|	邱思枚	1连2排1班	12	155|60	46	false	false	@~	oTCw85IZ-XYN7dViXnE2MRGP8kA0	
+203	|	唐辉	一连二排三班	11	228|77	40	false	false	马尔科夫链	oTCw85IZmZuwGfTIOmCKyIydcKAs	
+304	|	刘莉芳	一连三排一班	11	208|99	42	false	false	Glykos	oTCw85BZhH5gJMuupfbftPlX--OE	
+143	|	许梦圆	一连二排三班	11	237|95	17	false	false	碳基圆	oTCw85BQq9VfHO_sXBfu1ljZBLSo	
+151	|	周棋	一连一排二班	11	197|69	25	false	false	29	oTCw85B2vlTvWkY18MviweJNyKxk	
+173	|	张峰	一连一排二班	11	230|117	25	false	false	张峰	oTCw85NniaqRugQ5zbVUEZQxEmts	
+161	|	杨钦平	一连二排二班	10	180|67	4	false	false	v.lsg	oTCw85BpuUWli22nnJqXAg8_7kmg	
+269	|	林结桃	一连三排一班	10	173|64	42	false	false	peach	oTCw85HJYyXsQSrwUwUzwpCRPAL4	
+165	|	郭世鼎	212	10	210|78	59	false	false	郭世鼎	oTCw85HNzUw5zpgMYI4rDoALkFbA	
+133	|	曹文怡	111	10	184|72	13	false	false	ଘ怡宝不吃麻ଓ	oTCw85MHfpy6lpb_-2eQV95kV7_0	
+215	|	周慧	六排二班	9	246|78	21	false	false	FF	oTCw85CYoNDnPbD_HSgiulPWTWas	
+229	|	方成	一连一排三班	9	157|53	9	false	false	Clarity	oTCw85G2HMzz70VwrkrTx7JCKtRE	
+194	|	郇兆蔚	一连二排一班	9	145|89	63	false	false	雨殇绮梦	oTCw85LdfRc_GeIJjyaIWcxxmIZ8	
+180	|	敖翔	一连一排一班	9	213|73	7	false	false	敖翔	oTCw85MLyrsV-o44cUsE0KysELqA	
+273	|	丁旭	一连一排3班	8	148|65	16	false	false	柴火	oTCw85PbICsi26588sf_luzxJtJ4	
+285	|	李双宝	三排二班	8	105|42	62	false	false	睡神🙊smile	oTCw85M7U3FPzX80hujWMhZF6iIQ	
+232	|	杜金科	一连一排3班	8	156|56	9	false	false	Basking and Meditation	oTCw85KJam5xZW4BGPBQ4dDEgCus	
+210	|	冀弘艺	2连2排2班	8	141|67	5	false	false	nattergal	oTCw85PbEGAeD-5KYx2GK26fIv9o	
+158	|	龙施斌	3排2班	8	242|80	15	false	false	夜光	oTCw85Prbrz5ubY3XGHYU_A4eG3M	
+239	|	李燕鹏	二连一排一班	8	162|88	27	false	false	T	oTCw85Hd8P4HM4nw-vcXxqgvmkmI	
+184	|	罗凤琴	四排二班	8	140|65	20	false	false	琴琴琴	oTCw85Kmxs5WTbjr8bsT_UtF6a30	
+321	|	王瑜洁	一连一排二班	7	118|111	64	false	false	橘子不是唯一的水果	oTCw85F3ovAJJWYp8hRSSqZ2YG2U	
+241	|	王为	二连一排三班	7	143|36	10	false	false	小王	oTCw85LL8JN7g6cgitRZ8s-l9eAw	
+190	|	程立	一连一排一班	7	189|63	35	false	false	D_D	oTCw85GNwq04jazx5REGhrfFinuI	
+225	|	刘鉴仪	六排二班	7	205|54	23	false	false	.	oTCw85AwYP53SPSDYdSrylnEcChE	
+152	|	曹硕	1连1排1班	7	191|54	13	false	false	不白	oTCw85D7Q_zMRUQAoTgS4kkNZ4q4	
+262	|	张湘泉	三排二班	7	124|62	22	false	false	a	oTCw85L0P26VeGJLsPtxDCF7sIDY	
+300	|	邵任之	2连1排1班	6	137|32	55	false	false	结了婚的...7...	oTCw85IGxBItMwxsP8N__zJyypTg	
+172	|	闫宗强	2连2排3班	6	179|83	51	false	false	侧耳听冷雨	oTCw85EH0qvwxpZlrLU_b360nhd4	
+149	|	陈豪	一连一排二班	6	159|66	15	false	false	陈小布	oTCw85PnOipfBMnHvIR5OnxqrefA	
+207	|	杜莹	一连二排一班	6	109|61	63	false	false	=)	oTCw85Nae1jr1ggpiweBaPP7Li-k	
+182	|	谢倩薇	六排二班	6	156|65	21	false	false	Joe〰	oTCw85OjhzJjgTkMgbEZTvkPHw8U	
+146	|	胡加辉	一连二排一班	6	206|53	2	false	false	Gαrfïειd	oTCw85NOhnzgK7dpo_09HtM7A-ic	
+290	|	钟春榕	二连六排一班	6	172|68	58	false	false	zool BUC	oTCw85JQfXgXUkNzW_8FV4U3Bm04	
+296	|	王子畅	五排一班	6	144|45	58	false	false	小王子	oTCw85OvnT8lFWZcAqLaVZnoDTc0	
+317	|	吴静蓓	骑士探索（测试）	6	30|19	-1	false	false	静贝🐳	oTCw85Lehk1uLDikovzteGQ8QizM	
+228	|	孙央雯	四排二班	6	130|67	20	false	false	采薇	oTCw85F_axx1tJsBY2VG5Q98BLTY	
+224	|	李艺洋	二连一排一班	5	102|43	27	false	false	小白鲜肉饼	oTCw85CvcC5lyaqDb-moDr2Tfhx8	
+240	|	陈博阳	一连一排一班	5	155|56	40	false	false	Egoist	oTCw85BZ3GOFFgOv2CdjUvlqdCdA	
+145	|	高松	二连三排三班	5	184|39	37	false	false	Drill	oTCw85GmKTf-zRag2PVCuzwLIlmY	
+153	|	聂聂聂。	四排二班	5	185|124	59	false	false	聂聂聂。	oTCw85HaWi58rQpOWI4GyKKAkuZU	
+238	|	罗梅	一连三排三班	5	198|84	15	false	false	睡神	oTCw85MLgGYDasUyhHUKL09_Css0	
+156	|	张希雯	二连二排三班	5	142|41	36	false	false	Heaven	oTCw85IVvLeS4QUWx1_tOqfwN7UQ	
+157	|	周靖尧	二连二排二班	5	13|8	-1	false	false	周靖尧	oTCw85OoGiK4LRswcKTIo0woaK9w	
+183	|	邹婷	二连三排一班	5	127|56	5	false	false	Estelle	oTCw85OjXU8IwWzgwz6qQk52z2KA	
+188	|	陈雪梅	六排二班	5	167|49	21	false	false	没至二光年	oTCw85ESBfzEweocH85mc0U1Yb9I	
+191	|	陈俐帆	一连一排一班	5	139|43	7	false	false	Melody	oTCw85Kyh7lXHXoWG5i7pXlbvVbk	
+167	|	程鹏	一连一排一班	5	169|70	35	false	false	Echo_c	oTCw85H2qD8ztD2b5Y_wGrkuoblA	
+268	|	赵佳丽	二连三排三班	5	131|58	5	false	false	ZJL	oTCw85OQSL1tBhKX4VhQEim61Cjs	
+264	|	蒋依伶	一连二排二班	5	164|74	3	false	false	一只小毛毛	oTCw85EpAAlO5URp3O1aoAS_ZN4g	
+266	|	张海波	一连二排一班	4	169|50	2	false	false	追风	oTCw85N-fUUQGCbCYhO0qTRqLxtk	
+179	|	丁若凡	二连三排一班	4	109|55	29	false	false	若凡	oTCw85ND2Ffyusjbutp6zF-mSiz4	
+166	|	刘华辉	一连二排二班	3	135|55	4	false	false	杨过	oTCw85NryE0RNb1HkEDNhiHU-bZs	
+230	|	唐天娇	2连一排一班	3	99|42	27	false	false	天娇	oTCw85MGyo7YZHz73HiESb3jOi_Y	
+243	|	张艺明	三排二班	3	80|74	22	false	false	！！	oTCw85B5XbRoWVZbpdkkXsQOcLw0	
+252	|	董思瑶	一排三班	3	173|53	44	false	false	风声	oTCw85NrO4D1DNgycADD-VmczV0k	
+129	|	刘璟仪	1连2排2班	2	2|3	-1	false	false	扣咂～	oTCw85ET70NqJG60twMQ47Rt25Ig	
+267	|	尹达智	二连二排二班	2	164|47	52	false	false	起飞🛫	oTCw85HlMKMydCQkjxJYv_OwM5x8	
+289	|	黄雪军	一连二排二班	1	120|40	54	false	false	。	oTCw85AvuwMmCX3JrH97FI5U-0kE	
+175	|	芮金秋	二连三排一班	1	74|50	19	false	false	旺仔秋秋糖🍬	oTCw85JN9ONtBJLnnOzwjzP3l-Rk	
+275	|	刘建秀	111	1	158|38	13	false	false	终于不用早起	oTCw85HL4ndFn4VI50Mt7MIL3UZQ	
+271	|	陈冠锋	一连一排二班	1	74|52	29	false	false	。	oTCw85LjDVhBb-8FT3X9fC4cliAU	
+136	|	曾晓月	一连一排一班	0	136|56	35	false	false	阿深我是	oTCw85IhG8ajepXFzwbLmHtrBxUY	
+138	|	曹孟岑	233	0	145|59	6	false	false	岑哈哈💕	oTCw85BEktlb1oxtC03FrW4DO2ss	
+139	|	周宇丁	一连	0	0|0	49	false	false	Miracle_Zzzzz	oTCw85EvzAEN8J5TTy9VY-HYYUZw	
+142	|	张桢	233	0	161|43	6	false	false	aurora	oTCw85Gc3U1-fcWumgqDu6Zy9Mko	
+144	|	陈子钰	一连一排二班	0	69|36	1	false	false	風が苦手	oTCw85Bi3Ygt9GL8kE3OJDPI9xOQ	
+163	|	黄晨颖	一连二排一班	0	133|45	34	false	false	黄拱-	oTCw85AtZamECpgzqDQ9eDLuHG_o	
+164	|	彭婷婷	1连2排1班	0	125|47	34	false	false	Hangyodon	oTCw85Muld08NH4RysTcLM0RMfNk	
+168	|	向睿智	二连二排二班	0	138|52	8	false	false	叫我小🐘就好了	oTCw85ItA6V4UQ8JATnTwvPxsA5M	
+170	|	王佳楠	五排1班	0	152|52	28	false	false	。💋	oTCw85HCxkA8DSAHrYlgAwfnU7q0	
+187	|	郑文婷	二连三排一班	0	66|42	1	false	false	Wendy🌳	oTCw85LsVxziVl27o12HEZY2C9LQ	
+189	|	安晨	1连1排1班	0	125|38	7	false	false	安晨	oTCw85OxN8wHAN33gEzoMK4UwD5M	
+193	|	陈芳	一连一排二班	0	64|44	1	false	false	一只荒	oTCw85MQ1xtLC6DBsQt9sMgJuZcI	
+196	|	聂琦	一连二排一班	0	140|36	34	false	false	7	oTCw85JZ28164QJTkh97vyaTJujY	
+198	|	彭程	六连二班	0	126|25	53	false	false	彭程-miles	oTCw85JNDU0AYnpKU1DV-GKY7wPk	
+199	|	关山	2连2排3班	0	180|60	14	false	false	(=￣ ρ￣=) ..zzZZ	oTCw85DXCBfEytEqOgo_b11gnLY0	
+201	|	郑宏一	一连一排二班	0	105|38	41	false	false	郑宏一  Roxanne	oTCw85LUeYC88E82hsA4Htqr23ps	
+204	|	梁国强	一连三排三班	0	153|51	50	false	false	青芜堤上柳	oTCw85LtJVrDafNmUBFh2x8pnx3M	
+206	|	钟燕霄	2连2排3班	0	95|71	36	false	false	放空	oTCw85B6CFQ7SToXC16WmrAqjHcI	
+218	|	梁淑君	一连三排三班	0	140|51	0	false	false	梁	oTCw85JsbkkYXNQvG2Tm8uAxRWqQ	
+221	|	朱振杰	2连3排3班	0	158|46	37	false	false	Ketsu	oTCw85IJoD9NqWnJ85SOosQrxyP4	
+222	|	孟逸欣	1连2排1班	0	97|65	46	false	false	Eason 孟	oTCw85Gz6EgnzHK9IeevsrHtQp6U	
+223	|	葛冬岑	1连2排1班	0	166|38	2	false	false	Devin G	oTCw85I2Ih4fGKF1zrfySTuWCM_U	
+226	|	雷常贵	二连二排1班	0	58|47	26	false	false	轨道	oTCw85AsXfZvMpUX18vAzh_io0l8	
+227	|	邓智予	2连2排3班	0	61|46	38	false	false	邓智予	oTCw85Bb2ksS0-9F8M6h4Z_g0Qno	
+242	|	杨海玲	二连二排二班	0	133|58	8	false	false	AD钙奶黑帮	oTCw85Mi7uK80EjqcLip1NPGjIoM	
+244	|	龚建福	六班	0	73|47	19	false	false	Gostein	oTCw85DYV5JRJlhxsNO1nepCZu3Y	
+249	|	周靖尧	二连一排一班	0	147|57	48	false	false	周靖尧	oTCw85GAtvv3UHstP4CjEXgA3NjQ	
+254	|	罗菲	二连一排三班	0	71|36	57	false	false	洛菲菲	oTCw85Hf_xtKPlbh-oGS7fsaNaUU	
+259	|	黄伊明	六排二班	0	126|28	53	false	false	HYm	oTCw85MEEpDSFGfC2Vo2_73a6CWE	
+260	|	黄莉	一连二排二班	0	131|46	3	false	false	Lisa	oTCw85FiQFLQEaCk8WRfncE-ih2k	
+276	|	吴佳雨	4排1班	0	114|41	55	false	false	自然醒	oTCw85M_4n5CFnbY3Ff0dZVnGuDU	
+279	|	施韶强	一连三排二班	0	0|0	45	false	false	遇见	oTCw85AkQ5R7APXLpO4OrBqUTuP8	
+280	|	冼世忠	1连3排3班	0	157|47	50	false	false	Sin忠	oTCw85N5OTKT_hXUq2w4N4nUgK2g	
+284	|	骆雨晴	一连三排三班	0	119|61	64	false	false	骆落洛络咯🍉	oTCw85HI6by7rjd4tzfYmZo1N_q4	
+286	|	王晓娟	1连3排3班	0	0|0	-1	false	false	w	oTCw85CY7T5sst127ZLHMebhqXLo	
+287	|	李文卿	1连3排2班	0	0|0	-1	false	false	speranza	oTCw85MfAkCwq38eGyzJv6N8Vh1k	
+288	|	邓敏芳	一连一排二班	0	89|31	25	false	false	MF Deng🌵	oTCw85FUDObb6Sj96xuYKIonqgdY	
+291	|	卢思竹	1练3排2班	0	166|38	43	false	false	Lusagi	oTCw85INi6nBAfeG4GoriYOudEwI	
+295	|	宋双民	二连一排一班	0	145|58	48	false	false	🦊	oTCw85LmV-AG9xUckjm48rMMFVZs	
+298	|	王路梅	二连一排三班	0	55|49	26	false	false	王路梅	oTCw85MC_QiM07dtU_vylQZFTfM4	
+301	|	赵世宠	二连三排一班	0	130|50	47	false	false	ZsC	oTCw85BcCKOaVzcp01UPAQ5xDrYg	
+302	|	郑邦进	1排3班	0	167|49	44	false	false	夜莺呜咽	oTCw85P5UWIPr7PWC8C7GQxEpvSE	
+303	|	陈立川	六排二班	0	90|54	22	false	false	clcprince	oTCw85IPuGotcpp5bnpoTZNhelmc	
+305	|	许颖颖	一连一排3班	0	128|48	9	false	false	许颖颖	oTCw85JHGrDQDg9psAByGAvecYlE	
+306	|	郭咏锶	233	0	161|43	37	false	false	锶	oTCw85Dx24bLcIe7W3mspMfmzRQc	
+307	|	杨运	2连1排1班	0	116|39	55	false	false	y	oTCw85MjMWeydwOUC0tFmJj-vtc0	
+308	|	黄涛	二连一排一班	0	137|68	48	false	false	涛声依旧	oTCw85Hveb5WWTwWuStDoZ-sI4wY	
+311	|	吴宇豪	二连二排一班	0	60|44	26	false	false	塞伦盖蒂	oTCw85D9EOnbX7Rbn3e_uJ6jug50	
+312	|	唐明艳	4排2班	0	120|60	32	false	false	渡	oTCw85GX51KDnDpg4xEZJ3SQTOqY	
+313	|	陈焯阳	二连三排一班	0	136|44	47	false	false	George-SJTU	oTCw85JHMOtk_csy4V5DynThs1rQ	
+314	|	韦青春	1连3排2班	0	134|46	18	false	false	anonymous	oTCw85HHI_MBykLFgFW8qwmY4bIM	
+315	|	陈哲	212	0	0|0	61	false	false	König	oTCw85ImoLbu8-w1u0MaHv0IVZiE	
+316	|	谭灿	五排二班	0	101|31	62	false	false	谭灿-华大质谱	oTCw85ETTbtm8TP0s8GK-AnDYmLg	
+319	|	罗翔天	1连1排1班	0	32|24	65	false	false	可爱女人	oTCw85DpQGggRDv3x6qvuL90wK3w	
+320	|	向芙江Alan	二连二排二班	0	90|35	62	false	false	anonymous	oTCw85CrT8vEFEGS5GmXG55P2M60	
+322	|	蔡德崇	骑士探索教练	0	0|0	-1	false	false	蔡德崇	oTCw85PgyyaqPHQ5rFvOoHIY5FUQ	
+324	|	胡新芸	2连1排1班	0	34|19	65	false	false	星云	oTCw85Nrt1PIQV4EfshloB-39xxg	
